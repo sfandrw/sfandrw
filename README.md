@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sfandrw
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on anything charitable - send me proj ideas I will execute if it is worth the time 
-- 📫 How to reach me - idk 
+- 👋 hi, I’m @sfandrw
+- 👀 i’m interested in nothing
+- 🌱 i’m currently learning nothing
+- 💞️ i’m looking to collaborate on anything charitable - send me proj ideas I will do if i can
+- 📫 how to reach me - pigeon mail 
 
 <!---
 sfandrw/sfandrw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
